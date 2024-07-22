@@ -10,6 +10,8 @@ We shall also be able to see which users are more similar to one another.
 
 
 Check the notebook for more details I have included the comments explaining everything.
+
 Feel free to make any contributions.
+
 You can contact me at: njorogeofrey73@gmail.com
 
